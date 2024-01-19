@@ -1,0 +1,4 @@
+ "scripts": {
+    "dev": "nodemon --experimental-modules  server.js",
+    "start": "node --experimental-modules server.js"
+  }
